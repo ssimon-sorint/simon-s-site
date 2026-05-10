@@ -1,0 +1,21 @@
+.github/workflows/deploy.yml
+  s_992eefed7f2ed8::t_c8a35ef8888ade 1-42
+next.config.ts
+  s_992eefed7f2ed8::t_005838a24f3f5a 3-5,8-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "ea5f97b3eb79447ba4daae41e9a0d8411ed1a99a",
+  "prompts": {},
+  "sessions": {
+    "s_992eefed7f2ed8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ebc5a609-47e1-4f44-bdc5-2cb3ad1dd36a",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "xFlaviews <flaviusmironcatalin@gmail.com>"
+    }
+  }
+}
