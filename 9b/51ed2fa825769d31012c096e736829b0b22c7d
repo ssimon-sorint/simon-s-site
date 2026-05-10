@@ -1,0 +1,19 @@
+app/layout.tsx
+  s_992eefed7f2ed8::t_d79431040a6ae4 9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "9b51ed2fa825769d31012c096e736829b0b22c7d",
+  "prompts": {},
+  "sessions": {
+    "s_992eefed7f2ed8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ebc5a609-47e1-4f44-bdc5-2cb3ad1dd36a",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "xFlaviews <flaviusmironcatalin@gmail.com>"
+    }
+  }
+}
