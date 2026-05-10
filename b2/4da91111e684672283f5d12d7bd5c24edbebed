@@ -1,0 +1,24 @@
+app/opengraph-image.tsx
+  s_992eefed7f2ed8::t_a9a641733ca93d 1-82
+app/icon.svg
+  s_992eefed7f2ed8::t_d84d02a2c65603 1-7
+app/layout.tsx
+  s_992eefed7f2ed8::t_f9dc7e70317e8f 9,14
+  s_992eefed7f2ed8::t_57b97d371a96df 15-19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "b24da91111e684672283f5d12d7bd5c24edbebed",
+  "prompts": {},
+  "sessions": {
+    "s_992eefed7f2ed8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ebc5a609-47e1-4f44-bdc5-2cb3ad1dd36a",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "xFlaviews <flaviusmironcatalin@gmail.com>"
+    }
+  }
+}
