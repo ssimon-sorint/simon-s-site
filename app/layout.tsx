@@ -6,11 +6,17 @@ export const metadata: Metadata = {
   title: "Simon Andy Asoltanei — Backend Developer",
   description:
     "Backend developer based in Milano. Python, Node, Java, PostgreSQL. Studente di Informatica e Telecomunicazioni.",
-  metadataBase: new URL("https://simon-asoltanei.dev"),
+  metadataBase: new URL("https://ssimonaso.github.io/simon-s-site"),
   openGraph: {
     title: "Simon Andy Asoltanei — Backend Developer",
     description: "Backend developer · Milano · Python, Node, Java, PostgreSQL",
     type: "website",
+    url: "https://ssimonaso.github.io/simon-s-site/",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Simon Andy Asoltanei — Backend Developer",
+    description: "Backend developer · Milano · Python, Node, Java, PostgreSQL",
   },
 };
 
