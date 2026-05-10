@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Simon Andy Asoltanei — Backend Developer",
   description:
     "Backend developer based in Milano. Python, Node, Java, PostgreSQL. Studente di Informatica e Telecomunicazioni.",
-  metadataBase: new URL("https://ssimonaso.github.io/ssimon-site"),
+  metadataBase: new URL("https://ssimonaso.github.io"),
   openGraph: {
     title: "Simon Andy Asoltanei — Backend Developer",
     description: "Backend developer · Milano · Python, Node, Java, PostgreSQL",
