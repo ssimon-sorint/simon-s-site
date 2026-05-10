@@ -1,6 +1,7 @@
 "use client";
 
 import Image from "next/image";
+import portrait from "../public/images/simon.png";
 import { useI18n } from "@/lib/i18n";
 
 export default function Hero() {
@@ -65,7 +66,7 @@ export default function Hero() {
                 <span aria-hidden>↓</span>
               </a>
               <a
-                href="https://github.com/ssimon-sorint"
+                href="https://github.com/ssimonAso"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 px-5 py-3 rounded-full border border-ink-700 hover:border-accent hover:text-accent transition-colors font-mono text-sm"
@@ -106,7 +107,7 @@ function Portrait() {
       />
       <div className="relative w-[260px] h-[260px] sm:w-[320px] sm:h-[320px] rounded-full overflow-hidden border border-ink-700 bg-ink-900">
         <Image
-          src="/images/simon.png"
+          src={portrait}
           alt="Simon Andy Asoltanei"
           fill
           sizes="(min-width: 640px) 320px, 260px"

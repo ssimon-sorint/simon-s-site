@@ -80,12 +80,12 @@ export default function Projects() {
             <h3 className="text-2xl text-ink-300 font-medium">{t("proj.next.title")}</h3>
             <p className="text-ink-400 text-sm leading-relaxed">{t("proj.next.body")}</p>
             <a
-              href="https://github.com/ssimon-sorint"
+              href="https://github.com/ssimonAso"
               target="_blank"
               rel="noopener noreferrer"
               className="mt-3 font-mono text-xs text-accent hover:underline underline-offset-4"
             >
-              github.com/ssimon-sorint →
+              github.com/ssimonAso →
             </a>
           </div>
         </div>

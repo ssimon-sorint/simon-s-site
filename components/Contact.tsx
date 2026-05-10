@@ -37,8 +37,8 @@ export default function Contact() {
             />
             <ContactRow
               k="github"
-              v="ssimon-sorint"
-              href="https://github.com/ssimon-sorint"
+              v="ssimonAso"
+              href="https://github.com/ssimonAso"
             />
             <ContactRow
               k="location"
