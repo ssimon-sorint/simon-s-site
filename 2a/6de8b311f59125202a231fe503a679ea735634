@@ -1,0 +1,19 @@
+app/opengraph-image.tsx
+  s_992eefed7f2ed8::t_c3b136b8581467 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "2a6de8b311f59125202a231fe503a679ea735634",
+  "prompts": {},
+  "sessions": {
+    "s_992eefed7f2ed8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ebc5a609-47e1-4f44-bdc5-2cb3ad1dd36a",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "xFlaviews <flaviusmironcatalin@gmail.com>"
+    }
+  }
+}
