@@ -1,0 +1,25 @@
+components/Hero.tsx
+  s_992eefed7f2ed8::t_b29949f8378eb8 4
+  s_992eefed7f2ed8::t_1f721c266caede 69
+  s_992eefed7f2ed8::t_e0a68732d6fd62 110
+components/Contact.tsx
+  s_992eefed7f2ed8::t_1f721c266caede 40-41
+components/Projects.tsx
+  s_992eefed7f2ed8::t_1f721c266caede 83,88
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "e88d18c0f8292efcfea6a55b14cba6f99b9edc10",
+  "prompts": {},
+  "sessions": {
+    "s_992eefed7f2ed8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ebc5a609-47e1-4f44-bdc5-2cb3ad1dd36a",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "xFlaviews <flaviusmironcatalin@gmail.com>"
+    }
+  }
+}
